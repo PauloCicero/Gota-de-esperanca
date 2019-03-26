@@ -1,0 +1,408 @@
+
+			a{
+				text-decoration: none;
+			}
+			*{
+				margin: 0;
+				padding: 0;
+			}
+			body{
+				background-color: #960000;
+			}
+
+
+
+			header{
+				height: 100px;
+				background-color: #FF0000;
+			}
+			.Logo{
+				width: 200px;
+				height: 100px;
+				float: left;
+				margin-left: 250px;
+			}
+			.LogoX{
+				width: 200px;
+				height: 100px;
+				float: left;
+				margin-left: 205px;
+			}
+			.TituloLogo{
+				font-size: 70px;
+				float: left; 
+				margin-top: 5px;
+				margin-left: 30px;
+				font-family: 'Amaranth';
+				color: #f9f9f9;
+			}
+
+
+
+			.menu{
+				background-color: #960000;
+				height: 100%;
+				width: 200px;
+				position: absolute;
+				transition: all .2s linear;
+				float: left;
+				margin-bottom: 50px;
+			}
+			nav{
+				width: 100%;
+				position: absolute;
+				top: 5px;
+			}
+			nav a{
+				text-decoration: none;
+			}
+			.link{
+				background-color: #FF0000;
+				padding: 20px;
+				font-family: 'Arial';
+				font-size: 10pt;
+				font-weight: bold;
+				transition: all .2s linear;
+				color: #f9f9f9;
+				border-bottom: 5px solid #960000;
+			}
+			.link:hover{
+				background-color: #800000;
+			} 
+
+
+
+			h1{
+				font-family: 'Amaranth';
+				font-size: 40px;
+				color: gold;
+				margin-left: 345px;
+			}
+			h2{
+				font-family: 'Amaranth';
+				font-size: 30px;
+				color: gold;
+				margin-left: 10px;
+			}
+			.imgSection{
+				margin-left: 450px;
+				margin-top: 70px;
+				width: 400px;
+				height: 350px;
+			}
+			.FazerPedidos{
+				margin-left: 250px;
+				margin-top: 70px;
+				width: 780px;
+				height: 200px;
+				background-color: #960000;
+			}
+			.lblFazerPedidos{
+				margin-left: 10px;
+				font-size: 20px;
+				font-family: 'Amaranth';
+				color: gold;
+			}
+			#pedidoCadastrado{
+				margin-left: 320px;
+				color: gold;
+				font-size: 30px;
+			}
+			.Clique0{
+				font-family: 'Amaranth';
+				font-size: 20px;
+				font-weight: 700;
+				border: none;
+				cursor: pointer;
+				padding: 10px;
+				background: red;
+				color: #f9f9f9;
+			}
+			.Clique0:hover{
+				background: #800000;
+				color: #f9f9f9;
+			}
+			.Clique0:active{
+				position: relative;
+				top: 5px;
+				box-shadow: none;
+			}
+
+			
+			.Pedidos{
+				margin-left: 55px;
+				margin-top: 20px;
+				margin-bottom: 20px;
+				width: 350px;
+				height: 180px;
+				background-color: #FF0000;
+				float: left;
+			}
+			.lblpedidos{
+				margin-left: 10px;
+				color: gold;
+				font-size: 20px;
+				font-family: 'Amaranth';
+			}
+			.oPedido{
+				margin-left: 5px;
+				font-size: 20px;
+				font-family: 'Amaranth';
+				color: white;
+			}
+
+			.Local1{
+				margin-left: 215px;
+				margin-top: 60px;
+				height: 205px;
+				width: 315px;
+				background-color: #960000;
+			}
+			.Local2{
+				margin-left: 570px;
+				margin-top: -207px;
+				height: 205px;
+				width: 315px;
+				background-color: #960000;
+			}
+			.Local3{
+				margin-left: 925px;
+				margin-top: -207px;
+				height: 205px;
+				width: 315px;
+				background-color: #960000;
+			}
+			.Local4{
+				margin-left: 215px;
+				margin-top: 50px;
+				height: 205px;
+				width: 315px;
+				background-color: #960000;
+			}
+			.Local5{
+				margin-left: 570px;
+				margin-top: -207px;
+				height: 205px;
+				width: 315px;
+				background-color: #960000;
+			}
+			.Local6{
+				margin-left: 925px;
+				margin-top: -207px;
+				height: 205px;
+				width: 315px;
+				background-color: #960000;
+			}
+			.Local7{
+				margin-left: 215px;
+				margin-top: 65px;
+				height: 205px;
+				width: 315px;
+				background-color: #960000;
+			}
+			.Local8{
+				margin-left: 570px;
+				margin-top: -207px;
+				height: 205px;
+				width: 315px;
+				background-color: #960000;
+			}
+			.Local9{
+				margin-left: 925px;
+				margin-top: -207px;
+				height: 205px;
+				width: 315px;
+				background-color: #960000;
+			}
+			.Local10{
+				margin-left: 215px;
+				margin-top: 65px;
+				height: 205px;
+				width: 315px;
+				background-color: #960000;
+			}
+			.Local11{
+				margin-left: 570px;
+				margin-top: -207px;
+				height: 205px;
+				width: 315px;
+				background-color: #960000;
+			}
+			.Local12{
+				margin-left: 925px;
+				margin-top: -207px;
+				margin-bottom: 50px;
+				height: 205px;
+				width: 315px;
+				background-color: #960000;
+			}
+			.iconMap{
+				margin-top: 5px;
+				height: 35px;
+				width: 35px;
+			}
+			.Voltar{
+				margin-left: 5px;
+				margin-top: 55px;
+				height: 40px;
+				width: 40px;
+				float: left;
+			}
+			.lblLocaisDeDocao{
+				font-size: 20px;
+				font-family: 'Amaranth';
+				color: #f9f9f9;
+				margin-left: 10px;
+				margin-right: 10px;
+			}
+			.NomeLocal{
+				color: gold;
+			}
+			.QuemSomos{
+				margin-left: 215px;
+				margin-top: 30px;
+				height: 570px;
+				width: 920px;
+				background-color: #960000;
+			}
+			.lblQuemSomos{
+				font-family: 'Amaranth';
+				font-size: 20px;
+				color: #f9f9f9;
+				margin-left: 20px;
+			}
+			.FraseDoDia{
+				margin-left: 420px;
+				margin-top: 100px;
+				height: 210px;
+				width: 500px;
+				background-color: #960000;
+			}
+			#lblFraseDoDia{
+				font-size: 30px; 
+				font-family: 'Amaranth';
+				color: #f9f9f9;
+				margin-left: 10px;
+			}
+			.Clique{
+				margin-top: 30px;
+				margin-left: 200px;
+				margin-bottom: 30px;
+				font-family: 'Amaranth';
+				font-size: 20px;
+				font-weight: 700;
+				border: none;
+				cursor: pointer;
+				padding: 10px;
+				background: red;
+				color: #f9f9f9;
+			}
+			.Clique:hover{
+				background: #800000;
+				color: #f9f9f9;
+			}
+
+			.Clique:active{
+				position: relative;
+				top: 5px;
+				box-shadow: none;
+			}
+			.Valores{
+				font-family: 'Amaranth';
+				font-size: 20px;
+				color: #f9f9f9;
+				margin-left: 20px;
+			}
+			.teste{
+				margin-top: 40px;
+				margin-left: 250px;
+				background-color: white;
+				width: 600px;
+				height: 40px;
+			}
+			#oculta1{
+				margin-top: 0px;
+				margin-left: 250px;
+				width: 800px;
+				height: 100px;
+				background-color: white;
+				display: none;
+			}
+			#oculta2{
+				margin-top: 0px;
+				margin-left: 250px;
+				width: 800px;
+				height: 100px;
+				background-color: white;
+				display: none;
+			}
+			#oculta3{
+				margin-top: 0px;
+				margin-left: 250px;
+				width: 800px;
+				height: 100px;
+				background-color: white;
+				display: none;
+			}
+			#oculta4{
+				margin-top: 0px;
+				margin-left: 250px;
+				width: 800px;
+				height: 100px;
+				background-color: white;
+				display: none;
+			}
+			#oculta5{
+				margin-top: 0px;
+				margin-left: 250px;
+				width: 800px;
+				height: 100px;
+				background-color: white;
+				display: none;
+			}
+			#oculta6{
+				margin-top: 0px;
+				margin-left: 250px;
+				width: 800px;
+				height: 100px;
+				background-color: white;
+				display: none;
+			}
+			#oculta7{
+				margin-top: 0px;
+				margin-left: 250px;
+				width: 800px;
+				height: 100px;
+				background-color: white;
+				display: none;
+			}
+			#oculta8{
+				margin-top: 0px;
+				margin-left: 250px;
+				width: 800px;
+				height: 100px;
+				background-color: white;
+				display: none;
+			}
+			#oculta9{
+				margin-top: 0px;
+				margin-left: 250px;
+				width: 800px;
+				height: 100px;
+				background-color: white;
+				display: none;
+			}
+			#oculta10{
+				margin-top: 0px;
+				margin-left: 250px;
+				width: 800px;
+				height: 100px;
+				background-color: white;
+				display: none;
+			}
+			.pags{
+				margin-top: 50px;
+				margin-left: 650px;
+				width: 50px;
+				background-color: white;
+			}
